@@ -1,0 +1,21 @@
+# ========================================================
+# WHITELIST UID - LUKIS PROXY (ONLINE & OFFLINE)
+# ========================================================
+# Petunjuk Penggunaan:
+# 1. Tulis 1 UID per baris.
+# 2. Baris yang diawali tanda '#' atau '--' dianggap komentar.
+# 3. Anda bisa menambahkan catatan nama pemilik di sebelah UID.
+# 4. Setiap kali Anda menambah UID baru di sini, upload/push
+#    file ini ke repository GitHub Anda (reiitama/proxy_cps).
+# ========================================================
+
+# OWNER (Akses Penuh / Bebas)
+836498 -- Owner Lukis
+
+# ========================================================
+# DAFTAR UID PEMBELI / TEMAN YANG DIIZINKAN:
+# ========================================================
+# Contoh format penambahan:
+# 12345678 -- Pembeli A (1 Bulan)
+# 87654321 -- Pembeli B (Permanen)
+297293 -- Dom
